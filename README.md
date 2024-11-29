@@ -1,4 +1,4 @@
-# Loan Default Prediction Project
+# CREDISCOPE
 
 ## Overview
 This project aims to predict whether a loan will be **fully paid** or **not fully paid** based on various features such as credit policy adherence, FICO score, interest rates, and loan purpose. The dataset used is `loan_data.csv`, and multiple machine learning models are implemented and evaluated to determine their performance.
